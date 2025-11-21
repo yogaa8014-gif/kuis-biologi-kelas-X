@@ -1,0 +1,17 @@
+/* style.css */
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.option-btn {
+    text-align: left;
+    white-space: normal; /* Memastikan teks panjang tidak terpotong */
+}
+
+/* Style untuk jawaban yang dipilih */
+.selected {
+    background-color: #0d6efd; /* Warna biru Bootstrap */
+    color: white;
+    border-color: #0d6efd;
+}
